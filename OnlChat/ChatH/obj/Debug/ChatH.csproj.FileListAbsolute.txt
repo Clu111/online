@@ -1,0 +1,11 @@
+C:\Users\said\source\repos\OnlChat\ChatH\bin\Debug\ChatH.exe.config
+C:\Users\said\source\repos\OnlChat\ChatH\bin\Debug\ChatH.exe
+C:\Users\said\source\repos\OnlChat\ChatH\bin\Debug\ChatH.pdb
+C:\Users\said\source\repos\OnlChat\ChatH\bin\Debug\OnlChat.dll
+C:\Users\said\source\repos\OnlChat\ChatH\bin\Debug\OnlChat.pdb
+C:\Users\said\source\repos\OnlChat\ChatH\bin\Debug\OnlChat.dll.config
+C:\Users\said\source\repos\OnlChat\ChatH\obj\Debug\ChatH.csproj.AssemblyReference.cache
+C:\Users\said\source\repos\OnlChat\ChatH\obj\Debug\ChatH.csproj.CoreCompileInputs.cache
+C:\Users\said\source\repos\OnlChat\ChatH\obj\Debug\ChatH.csproj.CopyComplete
+C:\Users\said\source\repos\OnlChat\ChatH\obj\Debug\ChatH.exe
+C:\Users\said\source\repos\OnlChat\ChatH\obj\Debug\ChatH.pdb

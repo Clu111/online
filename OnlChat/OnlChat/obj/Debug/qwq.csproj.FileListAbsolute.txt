@@ -1,0 +1,7 @@
+C:\Users\said\source\repos\OnlChat\OnlChat\bin\Debug\OnlChat.dll.config
+C:\Users\said\source\repos\OnlChat\OnlChat\bin\Debug\OnlChat.dll
+C:\Users\said\source\repos\OnlChat\OnlChat\bin\Debug\OnlChat.pdb
+C:\Users\said\source\repos\OnlChat\OnlChat\obj\Debug\qwq.csproj.AssemblyReference.cache
+C:\Users\said\source\repos\OnlChat\OnlChat\obj\Debug\qwq.csproj.CoreCompileInputs.cache
+C:\Users\said\source\repos\OnlChat\OnlChat\obj\Debug\OnlChat.dll
+C:\Users\said\source\repos\OnlChat\OnlChat\obj\Debug\OnlChat.pdb
